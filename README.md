@@ -1,4 +1,4 @@
-# solar-challenge-week1# Solar Challenge Week 1
+# solar-challenge-week1
 
 A starter repo to get everyone up and running with Python, Git, and GitHub Actions CI so you can focus on the data challenge!
 
